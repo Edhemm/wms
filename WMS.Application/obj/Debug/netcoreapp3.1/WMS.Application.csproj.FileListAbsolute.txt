@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\WMS\WMS.Application\bin\Debug\netcoreapp3.1\WMS.Application.deps.json
+C:\Users\USER\source\repos\WMS\WMS.Application\bin\Debug\netcoreapp3.1\WMS.Application.dll
+C:\Users\USER\source\repos\WMS\WMS.Application\obj\Debug\netcoreapp3.1\WMS.Application.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\WMS\WMS.Application\obj\Debug\netcoreapp3.1\WMS.Application.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\WMS\WMS.Application\obj\Debug\netcoreapp3.1\WMS.Application.AssemblyInfo.cs
+C:\Users\USER\source\repos\WMS\WMS.Application\bin\Debug\netcoreapp3.1\WMS.Application.pdb
+C:\Users\USER\source\repos\WMS\WMS.Application\obj\Debug\netcoreapp3.1\WMS.Application.dll
+C:\Users\USER\source\repos\WMS\WMS.Application\obj\Debug\netcoreapp3.1\WMS.Application.pdb
+C:\Users\USER\source\repos\WMS\WMS.Application\bin\Debug\netcoreapp3.1\WMS.Domain.dll
+C:\Users\USER\source\repos\WMS\WMS.Application\bin\Debug\netcoreapp3.1\WMS.Domain.pdb
+C:\Users\USER\source\repos\WMS\WMS.Application\obj\Debug\netcoreapp3.1\WMS.Application.csproj.CopyComplete
+C:\Users\USER\source\repos\WMS\WMS.Application\obj\Debug\netcoreapp3.1\WMS.Application.csproj.CoreCompileInputs.cache

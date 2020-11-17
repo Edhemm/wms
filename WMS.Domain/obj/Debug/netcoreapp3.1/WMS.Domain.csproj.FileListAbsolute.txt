@@ -1,0 +1,9 @@
+C:\Users\USER\source\repos\WMS\WMS.Domain\bin\Debug\netcoreapp3.1\WMS.Domain.deps.json
+C:\Users\USER\source\repos\WMS\WMS.Domain\bin\Debug\netcoreapp3.1\WMS.Domain.dll
+C:\Users\USER\source\repos\WMS\WMS.Domain\obj\Debug\netcoreapp3.1\WMS.Domain.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\WMS\WMS.Domain\obj\Debug\netcoreapp3.1\WMS.Domain.AssemblyInfo.cs
+C:\Users\USER\source\repos\WMS\WMS.Domain\bin\Debug\netcoreapp3.1\WMS.Domain.pdb
+C:\Users\USER\source\repos\WMS\WMS.Domain\obj\Debug\netcoreapp3.1\WMS.Domain.dll
+C:\Users\USER\source\repos\WMS\WMS.Domain\obj\Debug\netcoreapp3.1\WMS.Domain.pdb
+C:\Users\USER\source\repos\WMS\WMS.Domain\obj\Debug\netcoreapp3.1\WMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WMS\WMS.Domain\obj\Debug\netcoreapp3.1\WMS.Domain.csprojAssemblyReference.cache

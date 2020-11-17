@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\bin\Debug\netcoreapp3.1\WMS.Infrastructure.deps.json
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\bin\Debug\netcoreapp3.1\WMS.Infrastructure.dll
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\obj\Debug\netcoreapp3.1\WMS.Infrastructure.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\obj\Debug\netcoreapp3.1\WMS.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\obj\Debug\netcoreapp3.1\WMS.Infrastructure.AssemblyInfo.cs
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\bin\Debug\netcoreapp3.1\WMS.Domain.dll
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\bin\Debug\netcoreapp3.1\WMS.Infrastructure.pdb
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\bin\Debug\netcoreapp3.1\WMS.Domain.pdb
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\obj\Debug\netcoreapp3.1\WMS.Infrastructure.csproj.CopyComplete
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\obj\Debug\netcoreapp3.1\WMS.Infrastructure.dll
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\obj\Debug\netcoreapp3.1\WMS.Infrastructure.pdb
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\bin\Debug\netcoreapp3.1\WMS.Application.dll
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\bin\Debug\netcoreapp3.1\WMS.Application.pdb
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\bin\Debug\netcoreapp3.1\WMS.Infrastructure.runtimeconfig.json
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\bin\Debug\netcoreapp3.1\WMS.Infrastructure.runtimeconfig.dev.json
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\obj\Debug\netcoreapp3.1\WMS.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\WMS\WMS.Infrastructure\obj\Debug\netcoreapp3.1\WMS.Infrastructure.genruntimeconfig.cache
